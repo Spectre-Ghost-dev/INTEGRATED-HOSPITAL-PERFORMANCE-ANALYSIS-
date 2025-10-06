@@ -95,7 +95,7 @@ The overall analysis of the patients shows the following results:
    
 
 ### DOCTORS PERFORMANCE ANALYSIS SEGMENT 
-![DOCTORS PERFORMANCE DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/Doctors%20Performance%20Dashboard.png)
+![DOCTORS PERFORMANCE DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/DOCTORS%20PERFORMANCE.png)
 
 The following results were derived from the analysis:
 1. There's an uneven patient distribution across doctors, with a few doctors handling the bulk of appointments.
