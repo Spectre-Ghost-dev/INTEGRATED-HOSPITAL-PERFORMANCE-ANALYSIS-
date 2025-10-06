@@ -83,8 +83,7 @@ This financial performance dashboard provides insights into the hospital’s rev
 ## RESULTS
 
 ### PATIENTS ANALYSIS SEGMENT 
-![PATIENT DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/2.png)
-
+![PATIENT DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/PATIENT%20INSIGHTS.png)
 The overall analysis of the patients shows the following results:
 1. There is a male dominated population, with a middle-aged average profile.
 2. Medcare Insurance leads as the preferred service provider, while HealthIndia has the least adoption. This may indicate stronger trust or better service agreements with Medcare.
