@@ -1,5 +1,5 @@
 # INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-
-A Comprehensive Evaluation of Clinical, Financial and Patient Performance Metrics.
+A data-driven healthcare analytics project showcasing the use of Power BI and Excelfor real-time performance monitoring. Integrating clinical efficiency, financial metrics and patient insights into a unified decision-support dashboard.
 
 ## TABLE OF CONTENTS 
 - [INTRODUCTION](#INTRODUCTION)
