@@ -104,7 +104,7 @@ The following results were derived from the analysis:
 
 
 ### HOSPITAL FINANCIAL ANALYSIS SEGMENT 
-![HOSPITAL FINANCIAL DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/1.png)
+![HOSPITAL FINANCIAL DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/HOSPITAL%20FINANCE.png)
 
 
 Below are the results gotten from the analysis of the hospital's finance:
