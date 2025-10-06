@@ -83,7 +83,7 @@ This financial performance dashboard provides insights into the hospital’s rev
 ## RESULTS
 
 ### PATIENTS ANALYSIS SEGMENT 
-![PATIENT DASHBOARD](
+![PATIENT DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/2.png)
 
 The overall analysis of the patients shows the following results:
 1. There is a male dominated population, with a middle-aged average profile.
