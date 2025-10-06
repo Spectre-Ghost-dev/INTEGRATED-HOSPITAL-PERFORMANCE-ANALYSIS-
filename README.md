@@ -1,4 +1,4 @@
-# INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-
+# INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS
 A data-driven healthcare analytics project showcasing the use of Power BI and Excelfor real-time performance monitoring. Integrating clinical efficiency, financial metrics and patient insights into a unified decision-support dashboard.
 
 ## TABLE OF CONTENTS 
@@ -83,7 +83,7 @@ This financial performance dashboard provides insights into the hospital’s rev
 ## RESULTS
 
 ### PATIENTS ANALYSIS SEGMENT 
-![PATIENT DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/1.png)
+![PATIENT DASHBOARD](
 
 The overall analysis of the patients shows the following results:
 1. There is a male dominated population, with a middle-aged average profile.
@@ -103,6 +103,8 @@ The following results were derived from the analysis:
 
 
 ### HOSPITAL FINANCIAL ANALYSIS SEGMENT 
+![HOSPITAL FINANCIAL DASHBOARD](https://github.com/Spectre-Ghost-dev/INTEGRATED-HOSPITAL-PERFORMANCE-ANALYSIS-/blob/main/1.png)
+
 
 Below are the results gotten from the analysis of the hospital's finance:
 While the overall revenue is substantial, collection efficiency is low, with less than one-third of bills successfully paid.
